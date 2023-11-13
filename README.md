@@ -10,6 +10,7 @@ Solutions to the Codember problems created by [@midudev](https://github.com/midu
 
 ## Challenges
 
-| Challenge | Solution                                                          |
-|-----------|-------------------------------------------------------------------|
-| #1        | [Show](src/main/java/dev/asjordi/solutions/ch01/Challenge01.java) |
+| Challenge | Solution                                                           |
+|-----------|--------------------------------------------------------------------|
+| #1        | [Show](src/main/java/dev/asjordi/solutions/ch01/Challenge01.java)  |
+| #2        | [Show](src/main/java/dev/asjordi/solutions/ch02/MiniCompiler.java) |
