@@ -1,4 +1,4 @@
-package dev.asjordi.solutions.ch02;
+package dev.asjordi.solutions23.ch02;
 
 public class MiniCompiler {
 

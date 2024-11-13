@@ -1,4 +1,4 @@
-package dev.asjordi.solutions.ch03;
+package dev.asjordi.solutions23.ch03;
 
 public class Password {
 

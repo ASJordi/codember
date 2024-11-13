@@ -1,4 +1,4 @@
-package dev.asjordi.solutions.ch04;
+package dev.asjordi.solutions23.ch04;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

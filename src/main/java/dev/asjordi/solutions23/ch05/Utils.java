@@ -1,4 +1,4 @@
-package dev.asjordi.solutions.ch05;
+package dev.asjordi.solutions23.ch05;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

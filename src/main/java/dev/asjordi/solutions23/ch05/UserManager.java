@@ -1,4 +1,4 @@
-package dev.asjordi.solutions.ch05;
+package dev.asjordi.solutions23.ch05;
 
 import java.io.*;
 import java.util.LinkedList;
