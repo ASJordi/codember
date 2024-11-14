@@ -13,6 +13,7 @@ Solutions to the Codember problems created by [@midudev](https://github.com/midu
 | Challenge | Solution                                                          |
 |-----------|-------------------------------------------------------------------|
 | #1        | [Show](src/main/java/dev/asjordi/solutions24/ch01/Challenge.java) |
+| #2        | [Show](src/main/java/dev/asjordi/solutions24/ch02/Challenge.java) |
 
 # 2023
 
